@@ -11,20 +11,20 @@
 
 
 <p align="center">
- <a href="https://github.com/jeniffers2?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/jeniffers2?color=90dbf9&labelColor=8eecf5&style=for-the-badge&logo=github&label=Seguidores&logoColor=fe0194&"
-        />
-    </a>
-    <a href="https://github.com/jeniffers2?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            <img src="https://custom-icon-badges.demolab.com/github/stars/jeniffers2?color=98f5e1&style=for-the-badge&labelColor=b9fbc5&logo=star&label=estrelas&logoColor=fe0194"
-        />
-    </a>
+  <a href="https://github.com/jeniffers2?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/jeniffers2?color=90dbf9&labelColor=8eecf5&style=for-the-badge&logo=github&label=Seguidores&logoColor=fe0194"
+    />
+  </a>
+  <a href="https://github.com/jeniffers2?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/jeniffers2?color=98f5e1&labelColor=b9fbc5&style=for-the-badge&logo=star&label=Estrelas&logoColor=fe0194"
+    />
+  </a>
 </p>
   <br/>
 

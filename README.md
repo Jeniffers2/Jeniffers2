@@ -10,8 +10,8 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/jeniffers2?tab=followers">
+<<p align="center">
+  <a href="https://github.com/jeniffers2?tab=followers" target="_blank">
     <img 
       alt="Seguidores" 
       title="Me siga no GitHub" 
